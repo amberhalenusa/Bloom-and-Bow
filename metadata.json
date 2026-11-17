@@ -1,0 +1,6 @@
+{
+  "name": "Bloom & Bow",
+  "description": "Bloom & Bow is a feminine lifestyle shopping discovery brand featuring stylish handbags, women's fashion, beauty essentials, and everyday favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
